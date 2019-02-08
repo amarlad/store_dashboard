@@ -1,0 +1,1918 @@
+{
+    "location": [
+        {
+            "store": 10,
+            "latitude": 35.0932882679133,
+            "longitude": -89.8115834028014,
+            "address": "2055 WEST STREET,GERMANTOWN,TN,38138,USA"
+        },
+        {
+            "store": 12,
+            "latitude": 37.698166752093,
+            "longitude": -121.928298546045,
+            "address": "2125 STONERIDGE MALL,PLEASANTON,CA,94588,USA"
+        },
+        {
+            "store": 14,
+            "latitude": 21.3333666,
+            "longitude": -158.0517197,
+            "address": "91-5431 KAPOLEI PARKWAY,KAPOLEI,HI,96707,USA"
+        },
+        {
+            "store": 16,
+            "latitude": 33.5094891606116,
+            "longitude": -112.027772393513,
+            "address": "2502 EAST CAMELBACK RD,PHOENIX,AZ,85016,USA"
+        },
+        {
+            "store": 18,
+            "latitude": 37.3257436,
+            "longitude": -121.9461324,
+            "address": "2855 STEVENS CREEK BLVD,SANTA CLARA,CA,95050,USA"
+        },
+        {
+            "store": 20,
+            "latitude": 33.6909892019534,
+            "longitude": -117.885624597866,
+            "address": "3333 BRISTOL ST,COSTA MESA,CA,92626,USA"
+        },
+        {
+            "store": 22,
+            "latitude": 34.157526877551,
+            "longitude": -118.435588877551,
+            "address": "14006 RIVERSIDE DRIVE,SHERMAN OAKS,CA,91423,USA"
+        },
+        {
+            "store": 24,
+            "latitude": 34.1838270779371,
+            "longitude": -118.884999497518,
+            "address": "338 W HILLCREST DR,THOUSAND OAKS,CA,91360,USA"
+        },
+        {
+            "store": 26,
+            "latitude": 34.01652645,
+            "longitude": -118.497123695016,
+            "address": "1244 THIRD STREET PROMENADE,SANTA MONICA,CA,90401,USA"
+        },
+        {
+            "store": 28,
+            "latitude": 37.5375466400517,
+            "longitude": -122.302678169303,
+            "address": "60 - 31ST AVE,SAN MATEO,CA,94403,USA"
+        },
+        {
+            "store": 30,
+            "latitude": 33.8088662,
+            "longitude": -117.9229642,
+            "address": "1570 S. DISNEYLAND DRIVE,ANAHEIM,CA,92802,USA"
+        },
+        {
+            "store": 32,
+            "latitude": 34.1026902,
+            "longitude": -118.340468659893,
+            "address": "6801 HOLLYWOOD BLVD,HOLLYWOOD,CA,90028,USA"
+        },
+        {
+            "store": 34,
+            "latitude": 34.1459776,
+            "longitude": -118.150943370958,
+            "address": "13 W. COLORADO BOULEVARD,PASADENA,CA,91103,USA"
+        },
+        {
+            "store": 36,
+            "latitude": 32.7688364,
+            "longitude": -117.1658582,
+            "address": "7007 FRIARS RD,SAN DIEGO,CA,92108,USA"
+        },
+        {
+            "store": 38,
+            "latitude": 32.8705269,
+            "longitude": -117.210525,
+            "address": "4545 LA JOLLA VILLAGE DR,SAN DIEGO,CA,92122,USA"
+        },
+        {
+            "store": 40,
+            "latitude": 39.4451768,
+            "longitude": -119.7735742,
+            "address": "13915 S VIRGINIA ST,RENO,NV,89511,USA"
+        },
+        {
+            "store": 42,
+            "latitude": 36.0639658,
+            "longitude": -115.1722444,
+            "address": "3377 LAS VEGAS BLVD SOUTH,LAS VEGAS,NV,89109,USA"
+        },
+        {
+            "store": 44,
+            "latitude": 29.7784897346939,
+            "longitude": -95.5604225714286,
+            "address": "796 TOWN & COUNTRY BLVD,HOUSTON,TX,77024,USA"
+        },
+        {
+            "store": 46,
+            "latitude": 36.0639658,
+            "longitude": -115.1722444,
+            "address": "3663 LAS VEGAS BLVD SOUTH,LAS VEGAS,NV,89109,USA"
+        },
+        {
+            "store": 48,
+            "latitude": 37.4439186137998,
+            "longitude": -122.172359959718,
+            "address": "355 STANFORD SHOPPING CENTER,PALO ALTO,CA,94304,USA"
+        },
+        {
+            "store": 50,
+            "latitude": 38.603327,
+            "longitude": -121.42853,
+            "address": "1689 ARDEN WAY,SACRAMENTO,CA,95815,USA"
+        },
+        {
+            "store": 52,
+            "latitude": 37.579047799753,
+            "longitude": -122.346223065805,
+            "address": "1205 BURLINGAME,BURLINGAME,CA,94010,USA"
+        },
+        {
+            "store": 54,
+            "latitude": 33.561664,
+            "longitude": -117.669603,
+            "address": "27000 CROWN VALLEY PKWY,MISSION VIEJO,CA,92691,USA"
+        },
+        {
+            "store": 56,
+            "latitude": 34.075718,
+            "longitude": -118.3770471,
+            "address": "8500 BEVERLY BLVD.,LOS ANGELES,CA,90048,USA"
+        },
+        {
+            "store": 58,
+            "latitude": 37.7977755,
+            "longitude": -122.4103485,
+            "address": "33 POWELL STREET,SAN FRANCISCO,CA,94102,USA"
+        },
+        {
+            "store": 60,
+            "latitude": 35.8402304,
+            "longitude": -78.679418,
+            "address": "4325 GLENWOOD AVENUE,RALEIGH,NC,27612,USA"
+        },
+        {
+            "store": 62,
+            "latitude": 33.8856291,
+            "longitude": -118.3960739,
+            "address": "3200 SEPULVEDA BLVD.,MANHATTAN BEACH,CA,90266,USA"
+        },
+        {
+            "store": 64,
+            "latitude": 32.9305156820913,
+            "longitude": -96.8209667109399,
+            "address": "13350 N. DALLAS PARKWAY,DALLAS,TX,75240,USA"
+        },
+        {
+            "store": 66,
+            "latitude": 29.740675,
+            "longitude": -95.46136,
+            "address": "5015 WESTHEIMER,HOUSTON,TX,77056,USA"
+        },
+        {
+            "store": 68,
+            "latitude": 32.86843675,
+            "longitude": -96.7736526930291,
+            "address": "8687 N. CENTRAL EXPY,DALLAS,TX,75225,USA"
+        },
+        {
+            "store": 70,
+            "latitude": 29.5184339,
+            "longitude": -98.4965251,
+            "address": "7400 SAN PEDRO AVE,SAN ANTONIO,TX,78216,USA"
+        },
+        {
+            "store": 72,
+            "latitude": 30.395413,
+            "longitude": -97.75191,
+            "address": "9722 GREAT HILLS TRAIL,AUSTIN,TX,78759,USA"
+        },
+        {
+            "store": 74,
+            "latitude": 29.781579,
+            "longitude": -95.5429021,
+            "address": "303 MEMORIAL CITY WAY,HOUSTON,TX,77024,USA"
+        },
+        {
+            "store": 76,
+            "latitude": 29.9613962451455,
+            "longitude": -95.5467139581694,
+            "address": "7925 FM 1960 RD,HOUSTON,TX,77070,USA"
+        },
+        {
+            "store": 78,
+            "latitude": 34.0587526,
+            "longitude": -118.419204100278,
+            "address": "10250 SANTA MONICA BLVD,LOS ANGELES,CA,90067,USA"
+        },
+        {
+            "store": 80,
+            "latitude": 32.8306867,
+            "longitude": -97.1993017,
+            "address": "1101 MELBOURNE ROAD,HURST,TX,76053,USA"
+        },
+        {
+            "store": 82,
+            "latitude": 34.1120264868082,
+            "longitude": -117.532132135477,
+            "address": "12506 N MAINSTREET,RANCHO CUCAMONGA,CA,91739,USA"
+        },
+        {
+            "store": 86,
+            "latitude": 33.0990115,
+            "longitude": -96.8112558,
+            "address": "2601 PRESTON ROAD,FRISCO,TX,75034,USA"
+        },
+        {
+            "store": 88,
+            "latitude": 36.8084744911436,
+            "longitude": -119.776296269167,
+            "address": "639 EAST SHAW AVE.,FRESNO,CA,93710,USA"
+        },
+        {
+            "store": 90,
+            "latitude": 34.415659,
+            "longitude": -119.700847,
+            "address": "223 WEST ORTEGA STREET,SANTA BARBARA,CA,93101,USA"
+        },
+        {
+            "store": 92,
+            "latitude": 26.1857275,
+            "longitude": -98.2360702467342,
+            "address": "2200 S. 10TH STREET,MCALLEN,TX,78503,USA"
+        },
+        {
+            "store": 96,
+            "latitude": 33.9152037,
+            "longitude": -117.88632452245,
+            "address": "1065 BREA MALL,BREA,CA,92821,USA"
+        },
+        {
+            "store": 98,
+            "latitude": 29.5930121,
+            "longitude": -98.6182580494653,
+            "address": "15900 LA CANTERA PARKWAY,SAN ANTONIO,TX,78256,USA"
+        },
+        {
+            "store": 104,
+            "latitude": 35.3375315,
+            "longitude": -119.0348842,
+            "address": "2701 MING AVE,BAKERSFIELD,CA,93304,USA"
+        },
+        {
+            "store": 106,
+            "latitude": 40.7292241,
+            "longitude": -74.038366,
+            "address": "30 MALL DRIVE WEST,JERSEY CITY,NJ,7310,USA"
+        },
+        {
+            "store": 108,
+            "latitude": 38.63510455,
+            "longitude": -90.3476632779996,
+            "address": "2407 ST LOUIS GALLERIA,ST LOUIS,MO,63117,USA"
+        },
+        {
+            "store": 110,
+            "latitude": 33.86299175,
+            "longitude": -118.094231926669,
+            "address": "161 LOS CERRITOS CENTER,CERRITOS,CA,90703,USA"
+        },
+        {
+            "store": 116,
+            "latitude": 37.835705,
+            "longitude": -122.292279,
+            "address": "5626 BAY STREET,EMERYVILLE,CA,94608,USA"
+        },
+        {
+            "store": 118,
+            "latitude": 40.7092698,
+            "longitude": -74.0102677,
+            "address": "150 BROADWAY,NEW YORK,NY,10038,USA"
+        },
+        {
+            "store": 122,
+            "latitude": 21.3760729,
+            "longitude": -157.9298834,
+            "address": "98-105 MOANALUA RD,AIEA,HI,96701,USA"
+        },
+        {
+            "store": 124,
+            "latitude": 33.4500900904454,
+            "longitude": -86.7300007003129,
+            "address": "225 SUMMIT BOULEVARD,BIRMINGHAM,AL,35243,USA"
+        },
+        {
+            "store": 126,
+            "latitude": 41.4597225,
+            "longitude": -81.9506882,
+            "address": "160 CROCKER PARK BLVD,WESTLAKE,OH,44145,USA"
+        },
+        {
+            "store": 132,
+            "latitude": 36.3180168,
+            "longitude": -94.1859317,
+            "address": "2203 S. 45TH STREET,ROGERS,AR,72758,USA"
+        },
+        {
+            "store": 134,
+            "latitude": 38.9564555540344,
+            "longitude": -94.7216683312017,
+            "address": "11731 WEST 95TH STREET,OVERLAND PARK,KS,66214,USA"
+        },
+        {
+            "store": 140,
+            "latitude": 33.3814305032496,
+            "longitude": -86.8080453613209,
+            "address": "2000 RIVERCHASE GALLERIA,HOOVER,AL,35244,USA"
+        },
+        {
+            "store": 142,
+            "latitude": 43.641271,
+            "longitude": -116.284535,
+            "address": "350 NORTH MILWAUKEE,BOISE,ID,83704,USA"
+        },
+        {
+            "store": 144,
+            "latitude": 37.2511713,
+            "longitude": -121.8640635,
+            "address": "925 BLOSSOM HILL ROAD,SAN JOSE,CA,95123,USA"
+        },
+        {
+            "store": 146,
+            "latitude": 40.06776275,
+            "longitude": -76.3391136252711,
+            "address": "319 PARK CITY CENTER,LANCASTER,PA,17601,USA"
+        },
+        {
+            "store": 148,
+            "latitude": 34.1353366,
+            "longitude": -118.0515141,
+            "address": "400 S. BALDWIN AVE,ARCADIA,CA,91007,USA"
+        },
+        {
+            "store": 152,
+            "latitude": 39.405584,
+            "longitude": -76.600159,
+            "address": "825 DULANEY VALLEY ROAD,TOWSON,MD,21204,USA"
+        },
+        {
+            "store": 154,
+            "latitude": 43.05690535,
+            "longitude": -89.5075645387718,
+            "address": "71 WEST TOWNE MALL,MADISON,WI,53719,USA"
+        },
+        {
+            "store": 158,
+            "latitude": 35.928374,
+            "longitude": -84.036303,
+            "address": "7600 KINGSTON PIKE,KNOXVILLE,TN,37919,USA"
+        },
+        {
+            "store": 160,
+            "latitude": 36.0627169,
+            "longitude": -95.8803001,
+            "address": "7021 S MEMORIAL DRIVE,TULSA,OK,74133,USA"
+        },
+        {
+            "store": 162,
+            "latitude": 39.92929,
+            "longitude": -105.1313199,
+            "address": "ONE WEST FLATIRON CROSSING DR,BROOMFIELD,CO,80021,USA"
+        },
+        {
+            "store": 166,
+            "latitude": 40.8632875,
+            "longitude": -73.1275288,
+            "address": "510 SMITH HAVEN MALL,LAKE GROVE,NY,11755,USA"
+        },
+        {
+            "store": 168,
+            "latitude": 33.3068727422969,
+            "longitude": -111.752607373663,
+            "address": "2206 E WILLIAMS FIELD RD,GILBERT,AZ,85295,USA"
+        },
+        {
+            "store": 170,
+            "latitude": 30.6328473374489,
+            "longitude": -97.6995561271192,
+            "address": "1015 W UNIVERSITY AVE,GEORGETOWN,TX,78628,USA"
+        },
+        {
+            "store": 176,
+            "latitude": 42.3670252735291,
+            "longitude": -71.0766137958799,
+            "address": "100 CAMBRIDGESIDE PLACE,CAMBRIDGE,MA,2141,USA"
+        },
+        {
+            "store": 178,
+            "latitude": 33.9098266,
+            "longitude": -117.45698750314,
+            "address": "2077 GALLERIA AT TYLER,RIVERSIDE,CA,92503,USA"
+        },
+        {
+            "store": 180,
+            "latitude": 38.047149,
+            "longitude": -78.469814,
+            "address": "1600 RIO RD E,CHARLOTTESVILLE,VA,22901,USA"
+        },
+        {
+            "store": 182,
+            "latitude": 34.0873117,
+            "longitude": -117.693453481735,
+            "address": "2061 MONTCLAIR PLAZA LANE,MONTCLAIR,CA,91763,USA"
+        },
+        {
+            "store": 184,
+            "latitude": 42.6276005875592,
+            "longitude": -82.947967119376,
+            "address": "17410 HALL ROAD,CLINTON TOWNSHIP,MI,48038,USA"
+        },
+        {
+            "store": 186,
+            "latitude": 34.1903865210084,
+            "longitude": -118.605720403361,
+            "address": "6600 TOPANGA CANYON BLVD,CANOGA PARK,CA,91303,USA"
+        },
+        {
+            "store": 188,
+            "latitude": 39.0464743,
+            "longitude": -94.3624148,
+            "address": "2018 INDEPENDENCE CENTRE DRIVE,INDEPENDENCE,MO,64057,USA"
+        },
+        {
+            "store": 196,
+            "latitude": 37.797263755102,
+            "longitude": -122.433458877551,
+            "address": "2083 UNION STREET,SAN FRANCISCO,CA,94123,USA"
+        },
+        {
+            "store": 198,
+            "latitude": 47.6151532,
+            "longitude": -122.2029976,
+            "address": "148 BELLEVUE SQUARE,BELLEVUE,WA,98004,USA"
+        },
+        {
+            "store": 200,
+            "latitude": 47.6635515,
+            "longitude": -122.298057,
+            "address": "2676 NE UNIVERSITY VILLAGE ST,SEATTLE,WA,98105,USA"
+        },
+        {
+            "store": 202,
+            "latitude": 37.8963620107571,
+            "longitude": -122.058578052707,
+            "address": "1149 BROADWAY PLAZA,WALNUT CREEK,CA,94596,USA"
+        },
+        {
+            "store": 204,
+            "latitude": 47.6113634,
+            "longitude": -122.3367568,
+            "address": "415 PINE ST,SEATTLE,WA,98101,USA"
+        },
+        {
+            "store": 208,
+            "latitude": 38.2465441,
+            "longitude": -85.6087538323363,
+            "address": "7900 SHELBYVILLE ROAD,LOUISVILLE,KY,40222,USA"
+        },
+        {
+            "store": 210,
+            "latitude": 41.570915,
+            "longitude": -93.8091669,
+            "address": "101 JORDAN CREEK PARKWAY,WEST DES MOINES,IA,50266,USA"
+        },
+        {
+            "store": 216,
+            "latitude": 35.3536193,
+            "longitude": -80.8560171,
+            "address": "6601 NORTHLAKE MALL DR,CHARLOTTE,NC,28216,USA"
+        },
+        {
+            "store": 222,
+            "latitude": 41.2606768,
+            "longitude": -96.1822736,
+            "address": "17101 DAVENPORT STREET,OMAHA,NE,68118,USA"
+        },
+        {
+            "store": 224,
+            "latitude": 33.0884436944313,
+            "longitude": -96.6847903954141,
+            "address": "FARM,919 GARDEN PARK DRIVE,ALLEN,TX,75013,USA"
+        },
+        {
+            "store": 228,
+            "latitude": 42.5152627,
+            "longitude": -71.0312716255763,
+            "address": "720 MARKET STREET,LYNNFIELD,MA,1940,USA"
+        },
+        {
+            "store": 230,
+            "latitude": 41.6977670657553,
+            "longitude": -83.6411262917737,
+            "address": "5001 MONROE STREET,TOLEDO,OH,43623,USA"
+        },
+        {
+            "store": 232,
+            "latitude": 32.623436,
+            "longitude": -116.9681764,
+            "address": "2015 BIRCH ROAD,CHULA VISTA,CA,91915,USA"
+        },
+        {
+            "store": 234,
+            "latitude": 38.6521468,
+            "longitude": -90.5649491285976,
+            "address": "2008 CHESTERFIELD MALL,CHESTERFIELD,MO,63017,USA"
+        },
+        {
+            "store": 236,
+            "latitude": 37.1624392022653,
+            "longitude": -93.262628163454,
+            "address": "2825 SOUTH GLENSTONE AVENUE,SPRINGFIELD,MO,65804,USA"
+        },
+        {
+            "store": 238,
+            "latitude": 42.7015285,
+            "longitude": -71.43703,
+            "address": "310 DANIEL WEBSTER HWY,NASHUA,NH,3060,USA"
+        },
+        {
+            "store": 240,
+            "latitude": 44.9703736872554,
+            "longitude": -93.4377475980832,
+            "address": "12669 WAYZATA BLVD,MINNETONKA,MN,55305,USA"
+        },
+        {
+            "store": 242,
+            "latitude": 44.8322405,
+            "longitude": -93.3204872,
+            "address": "BLOOMINGTON,MN,55425,USA"
+        },
+        {
+            "store": 244,
+            "latitude": 41.8913956,
+            "longitude": -87.6244867,
+            "address": "520 N MICHIGAN AVE,CHICAGO,IL,60611,USA"
+        },
+        {
+            "store": 246,
+            "latitude": 40.14441235,
+            "longitude": -82.9824369466081,
+            "address": "1500 POLARIS PARKWAY,COLUMBUS,OH,43240,USA"
+        },
+        {
+            "store": 252,
+            "latitude": 42.15012225,
+            "longitude": -87.8167246144781,
+            "address": "1314 NORTHBROOK CT,NORTHBROOK,IL,60062,USA"
+        },
+        {
+            "store": 256,
+            "latitude": 43.0444189,
+            "longitude": -88.047356,
+            "address": "2500 NORTH MAYFAIR ROAD,WAUWATOSA,WI,53226,USA"
+        },
+        {
+            "store": 258,
+            "latitude": 39.1437024,
+            "longitude": -84.4702091,
+            "address": "7875 MONTGOMERY ROAD,CINCINNATI,OH,45236,USA"
+        },
+        {
+            "store": 260,
+            "latitude": 28.3689726951494,
+            "longitude": -81.5245244823648,
+            "address": "1530 E. BUENA VISTA DRIVE,LAKE BUENA VISTA,FL,32830,USA"
+        },
+        {
+            "store": 262,
+            "latitude": 42.3443944422626,
+            "longitude": -71.0987878650313,
+            "address": "1325 BOYLSTON STREET,BOSTON,MA,2215,USA"
+        },
+        {
+            "store": 270,
+            "latitude": 42.7095519,
+            "longitude": -73.8162787,
+            "address": "131 COLONIE CENTER,ALBANY,NY,12205,USA"
+        },
+        {
+            "store": 276,
+            "latitude": 42.5394994,
+            "longitude": -70.9423233,
+            "address": "210 ANDOVER ST,PEABODY,MA,1960,USA"
+        },
+        {
+            "store": 278,
+            "latitude": 41.0949018138341,
+            "longitude": -73.9377128809718,
+            "address": "75 WEST ROUTE 59,CLARKSTOWN,NY,10954,USA"
+        },
+        {
+            "store": 282,
+            "latitude": 38.60058415,
+            "longitude": -90.4472584429753,
+            "address": "37 WEST COUNTY CENTER,DES PERES,MO,63131,USA"
+        },
+        {
+            "store": 284,
+            "latitude": 38.0279702,
+            "longitude": -84.5107228,
+            "address": "3401 NICHOLASVILLE ROAD,LEXINGTON,KY,40503,USA"
+        },
+        {
+            "store": 286,
+            "latitude": 30.3875225,
+            "longitude": -91.0864642,
+            "address": "6401 BLUEBONNET BLVD,BATON ROUGE,LA,70836,USA"
+        },
+        {
+            "store": 288,
+            "latitude": 33.3054203,
+            "longitude": -111.9449193,
+            "address": "3111 W CHANDLER BLVD,CHANDLER,AZ,85226,USA"
+        },
+        {
+            "store": 290,
+            "latitude": 40.73459645,
+            "longitude": -73.8700115945247,
+            "address": "90-15 QUEENS BLVD,ELMHURST,NY,11373,USA"
+        },
+        {
+            "store": 292,
+            "latitude": 42.2421547734985,
+            "longitude": -83.7432221254044,
+            "address": "876 BRIARWOOD CIRCLE,ANN ARBOR,MI,48108,USA"
+        },
+        {
+            "store": 294,
+            "latitude": 39.9514277142857,
+            "longitude": -75.1691205714286,
+            "address": "1714 CHESTNUT STREET,PHILADELPHIA,PA,19103,USA"
+        },
+        {
+            "store": 296,
+            "latitude": 40.1396744,
+            "longitude": -75.1141817,
+            "address": "2500 MORELAND ROAD,WILLOW GROVE,PA,19090,USA"
+        },
+        {
+            "store": 298,
+            "latitude": 41.0296132746155,
+            "longitude": -73.6266115956422,
+            "address": "75 GREENWICH AVENUE,GREENWICH,CT,6830,USA"
+        },
+        {
+            "store": 300,
+            "latitude": 33.9731343,
+            "longitude": -84.4858255,
+            "address": "4475 ROSWELL RD,MARIETTA,GA,30062,USA"
+        },
+        {
+            "store": 302,
+            "latitude": 40.723911,
+            "longitude": -73.9981879473684,
+            "address": "557 BROADWAY,NEW YORK,NY,10012,USA"
+        },
+        {
+            "store": 306,
+            "latitude": 25.7671616,
+            "longitude": -80.1931376,
+            "address": "701 SOUTH MIAMI AVENUE,MIAMI,FL,33131,USA"
+        },
+        {
+            "store": 308,
+            "latitude": 42.983327,
+            "longitude": -78.7096701428571,
+            "address": "119 FIFTH AVENUE,NEW YORK,NY,10003,USA"
+        },
+        {
+            "store": 310,
+            "latitude": 40.7499908,
+            "longitude": -73.9886538,
+            "address": "112 WEST 34TH STREET,NEW YORK,NY,10001,USA"
+        },
+        {
+            "store": 312,
+            "latitude": 40.7797335555556,
+            "longitude": -73.9817845555556,
+            "address": "2103 BROADWAY,NEW YORK,NY,10024,USA"
+        },
+        {
+            "store": 322,
+            "latitude": 40.8919329,
+            "longitude": -74.2619835,
+            "address": "1760 WILLOWBROOK MALL,WAYNE,NJ,74706,USA"
+        },
+        {
+            "store": 324,
+            "latitude": 28.666781,
+            "longitude": -81.3773282,
+            "address": "451 EAST ALTAMONTE DR,ALTAMONTE SPRINGS,FL,32701,USA"
+        },
+        {
+            "store": 326,
+            "latitude": 41.0325364693878,
+            "longitude": -73.7581935714286,
+            "address": "125 WESTCHESTER AVENUE,WHITE PLAINS,NY,10601,USA"
+        },
+        {
+            "store": 328,
+            "latitude": 40.5818884,
+            "longitude": -74.1660270536378,
+            "address": "2655 RICHMOND AVENUE,STATEN ISLAND,NY,10314,USA"
+        },
+        {
+            "store": 332,
+            "latitude": 40.7955738982619,
+            "longitude": -73.6758297551138,
+            "address": "1950 NORTHERN BLVD,MANHASSET,NY,11030,USA"
+        },
+        {
+            "store": 334,
+            "latitude": 42.4825918,
+            "longitude": -71.2146113,
+            "address": "75 MIDDLESEX TURNPIKE,BURLINGTON,MA,1803,USA"
+        },
+        {
+            "store": 336,
+            "latitude": 41.8928497,
+            "longitude": -87.6239079,
+            "address": "605 NORTH MICHIGAN AVENUE,CHICAGO,IL,60611,USA"
+        },
+        {
+            "store": 338,
+            "latitude": 42.7677731412523,
+            "longitude": -71.2234715701822,
+            "address": "99 ROCKINGHAM PARK BLVD,SALEM,NH,3079,USA"
+        },
+        {
+            "store": 344,
+            "latitude": 36.84894695,
+            "longitude": -76.2878266737299,
+            "address": "300 MONTICELLO AVE,NORFOLK,VA,23510,USA"
+        },
+        {
+            "store": 350,
+            "latitude": 42.320413,
+            "longitude": -71.175338,
+            "address": "199 BOYLSTON ST,CHESTNUT HILL,MA,2467,USA"
+        },
+        {
+            "store": 352,
+            "latitude": 38.91712775,
+            "longitude": -77.2216871501594,
+            "address": "7966 TYSONS CORNER CENTER,TYSONS CORNER,VA,22102,USA"
+        },
+        {
+            "store": 356,
+            "latitude": 42.34715695,
+            "longitude": -71.0825051630347,
+            "address": "800 BOYLSTON STREET,BOSTON,MA,2199,USA"
+        },
+        {
+            "store": 358,
+            "latitude": 39.021766,
+            "longitude": -77.1355919,
+            "address": "7101 DEMOCRACY BLVD,BETHESDA,MD,20817,USA"
+        },
+        {
+            "store": 360,
+            "latitude": 30.4012943,
+            "longitude": -97.7227131,
+            "address": "11700 ROCK ROSE AVE,AUSTIN,TX,78758,USA"
+        },
+        {
+            "store": 362,
+            "latitude": 35.151159,
+            "longitude": -80.828861,
+            "address": "4400 SHARON RD,CHARLOTTE,NC,28211,USA"
+        },
+        {
+            "store": 364,
+            "latitude": 33.5044802,
+            "longitude": -111.927528842611,
+            "address": "7014 EAST CAMELBACK ROAD,SCOTTSDALE,AZ,85251,USA"
+        },
+        {
+            "store": 366,
+            "latitude": 40.5858837,
+            "longitude": -74.6184393,
+            "address": "400 COMMONS WAY,BRIDGEWATER,NJ,8807,USA"
+        },
+        {
+            "store": 368,
+            "latitude": 40.7685324,
+            "longitude": -73.9827663,
+            "address": "10 COLUMBUS CIRCLE,NEW YORK,NY,10019,USA"
+        },
+        {
+            "store": 372,
+            "latitude": 41.394817,
+            "longitude": -73.4540111,
+            "address": "DANBURY,CT,6810,USA"
+        },
+        {
+            "store": 374,
+            "latitude": 40.7573965,
+            "longitude": -73.9777979,
+            "address": "580 5TH AVE,NEW YORK,NY,10036,USA"
+        },
+        {
+            "store": 376,
+            "latitude": 40.085496643062,
+            "longitude": -75.3947251339016,
+            "address": "160 NORTH GULPH ROAD,KING OF PRUSSIA,PA,19406,USA"
+        },
+        {
+            "store": 378,
+            "latitude": 41.8239891,
+            "longitude": -71.4128343,
+            "address": "PROVIDENCE,RI,2903,USA"
+        },
+        {
+            "store": 380,
+            "latitude": 40.451425,
+            "longitude": -79.932705,
+            "address": "5526 WALNUT STREET,SHADYSIDE,PITTSBURGH,PA,15232,USA"
+        },
+        {
+            "store": 382,
+            "latitude": 37.7792808,
+            "longitude": -122.4192363,
+            "address": "SAN FRANCISCO,CA,94111,USA"
+        },
+        {
+            "store": 384,
+            "latitude": 35.90419005,
+            "longitude": -78.9437054960411,
+            "address": "6910 FAYETTEVILLE ROAD,DURHAM,NC,27713,USA"
+        },
+        {
+            "store": 386,
+            "latitude": 41.8981234,
+            "longitude": -87.6229145968613,
+            "address": "845 N MICHIGAN AVE,CHICAGO,IL,60611,USA"
+        },
+        {
+            "store": 388,
+            "latitude": 42.30027475,
+            "longitude": -71.3853887966455,
+            "address": "1245 WORCESTER ST,NATICK,MA,1760,USA"
+        },
+        {
+            "store": 392,
+            "latitude": 41.0976978,
+            "longitude": -73.9566445,
+            "address": "1000 PALISADES CENTER DRIVE,WEST NYACK,NY,10994,USA"
+        },
+        {
+            "store": 398,
+            "latitude": 42.9076812459394,
+            "longitude": -78.8829182474013,
+            "address": "45 E 17TH STREET,NEW YORK,NY,10003,USA"
+        },
+        {
+            "store": 400,
+            "latitude": 25.7772486,
+            "longitude": -80.1323702,
+            "address": "721 COLLINS AVE,MIAMI BEACH,FL,33139,USA"
+        },
+        {
+            "store": 402,
+            "latitude": 25.728025,
+            "longitude": -80.2412358,
+            "address": "2982 GRAND AVE,COCONUT GROVE,FL,33133,USA"
+        },
+        {
+            "store": 404,
+            "latitude": 29.7417704864865,
+            "longitude": -95.4463118108108,
+            "address": "4056 WESTHEIMER ROAD,HOUSTON,TX,77027,USA"
+        },
+        {
+            "store": 406,
+            "latitude": 26.8481488,
+            "longitude": -80.0871512,
+            "address": "3101 PGA BLVD,PALM BEACH GARDENS,FL,33410,USA"
+        },
+        {
+            "store": 414,
+            "latitude": 25.68976,
+            "longitude": -80.280843,
+            "address": "7407 N KENDALL DRIVE,MIAMI,FL,33156,USA"
+        },
+        {
+            "store": 416,
+            "latitude": 30.25250915,
+            "longitude": -81.5770229658123,
+            "address": "10281 MIDTOWNE PKWY,JACKSONVILLE,FL,32246,USA"
+        },
+        {
+            "store": 418,
+            "latitude": 39.8281282315436,
+            "longitude": -75.098401,
+            "address": "1750 DEPTFORD CENTER ROAD,DEPTFORD,NJ,8096,USA"
+        },
+        {
+            "store": 422,
+            "latitude": 34.0652722,
+            "longitude": -83.984532,
+            "address": "3333 BUFORD DRIVE,BUFORD,GA,30519,USA"
+        },
+        {
+            "store": 424,
+            "latitude": 26.7090644285714,
+            "longitude": -80.0570491836735,
+            "address": "550 S. ROSEMARY AVE,WEST PALM BEACH,FL,33401,USA"
+        },
+        {
+            "store": 428,
+            "latitude": 27.9279706,
+            "longitude": -82.3195555,
+            "address": "912 BRANDON TOWN CENTER MALL,BRANDON,FL,33511,USA"
+        },
+        {
+            "store": 432,
+            "latitude": 35.0263824,
+            "longitude": -89.7166861,
+            "address": "4630 MERCHANTS PARK CIRCLE,COLLIERVILLE,TN,38017,USA"
+        },
+        {
+            "store": 436,
+            "latitude": 41.760764349369,
+            "longitude": -71.4586193917181,
+            "address": "142 HILLSIDE RD.,CRANSTON,RI,2920,USA"
+        },
+        {
+            "store": 438,
+            "latitude": 35.2811967,
+            "longitude": -120.6613161,
+            "address": "1090 COURT ST,SAN LUIS OBISPO,CA,93401,USA"
+        },
+        {
+            "store": 440,
+            "latitude": 29.716588,
+            "longitude": -95.415081,
+            "address": "2401 TIMES BLVD,HOUSTON,TX,77005,USA"
+        },
+        {
+            "store": 444,
+            "latitude": 42.7632789,
+            "longitude": -84.5170795,
+            "address": "2916 TOWNE CENTRE BLVD,LANSING,MI,48912,USA"
+        },
+        {
+            "store": 446,
+            "latitude": 35.5240264,
+            "longitude": -97.5443667,
+            "address": "1901 NW EXPRESSWAY,OKLAHOMA CITY,OK,73118,USA"
+        },
+        {
+            "store": 448,
+            "latitude": 26.0036245349325,
+            "longitude": -80.336820606158,
+            "address": "516 SW 145TH TERRACE,PEMBROKE PINES,FL,33027,USA"
+        },
+        {
+            "store": 450,
+            "latitude": 34.0485964,
+            "longitude": -84.2940411,
+            "address": "1000 NORTH POINT CIRCLE,ALPHARETTA,GA,30022,USA"
+        },
+        {
+            "store": 452,
+            "latitude": 35.1975864712248,
+            "longitude": -89.7921017860178,
+            "address": "2760 N. GERMANTOWN PARKWAY,MEMPHIS,TN,38133,USA"
+        },
+        {
+            "store": 456,
+            "latitude": 26.1371393,
+            "longitude": -80.1356304,
+            "address": "2414 E, SUNRISE BLVD,FORT LAUDERDALE,FL,33304,USA"
+        },
+        {
+            "store": 460,
+            "latitude": 33.848239,
+            "longitude": -84.362789,
+            "address": "3393 PEACHTREE RD NE,ATLANTA,GA,30326,USA"
+        },
+        {
+            "store": 462,
+            "latitude": 37.5062335,
+            "longitude": -121.9725028,
+            "address": "43550 CHRISTY STREET,FREMONT,CA,94538,USA"
+        },
+        {
+            "store": 466,
+            "latitude": 33.4653298,
+            "longitude": -81.9943096,
+            "address": "3450 WRIGHTSBORO ROAD,AUGUSTA,GA,30909,USA"
+        },
+        {
+            "store": 468,
+            "latitude": 36.8376485,
+            "longitude": -76.0685439,
+            "address": "701 LYNNHAVEN PARK,VIRGINIA BEACH,VA,23452,USA"
+        },
+        {
+            "store": 472,
+            "latitude": 29.5722708,
+            "longitude": -95.6614053,
+            "address": "16535 SOUTHWEST FREEWAY,SUGAR LAND,TX,77479,USA"
+        },
+        {
+            "store": 474,
+            "latitude": 35.10835015,
+            "longitude": -106.56940865,
+            "address": "6600 MENAUL BLVD. NE,ALBUQUERQUE,NM,87110,USA"
+        },
+        {
+            "store": 476,
+            "latitude": 30.002834020202,
+            "longitude": -90.1553369343434,
+            "address": "3301 VETERANS MEMORIAL BLVD,METAIRIE,LA,70002,USA"
+        },
+        {
+            "store": 478,
+            "latitude": 41.8240856671967,
+            "longitude": -72.8845699903136,
+            "address": "110 ALBANY TURNPIKE,CANTON,CT,6019,USA"
+        },
+        {
+            "store": 482,
+            "latitude": 39.2848798,
+            "longitude": -94.6782778,
+            "address": "8758 NW PRAIRIE VIEW ROAD,KANSAS CITY,MO,64153,USA"
+        },
+        {
+            "store": 484,
+            "latitude": 37.689485,
+            "longitude": -121.04998,
+            "address": "3401 DALE RD,MODESTO,CA,95356,USA"
+        },
+        {
+            "store": 486,
+            "latitude": 40.4220901,
+            "longitude": -86.8815363,
+            "address": "5725 JOHNSON ST,LAFAYETTE,LA,70503,USA"
+        },
+        {
+            "store": 490,
+            "latitude": 36.0639658,
+            "longitude": -115.1722444,
+            "address": "3200 LAS VEGAS BLVD SOUTH,LAS VEGAS,NV,89109,USA"
+        },
+        {
+            "store": 492,
+            "latitude": 40.5256797,
+            "longitude": -105.0259669,
+            "address": "2720 COUNCIL TREE AVE,FORT COLLINS,CO,80525,USA"
+        },
+        {
+            "store": 496,
+            "latitude": 37.9846417,
+            "longitude": -87.4970292,
+            "address": "800 N GREEN RIVER RD,EVANSVILLE,IN,47715,USA"
+        },
+        {
+            "store": 600,
+            "latitude": 40.7560687,
+            "longitude": -73.9872476,
+            "address": "200 W 42ND ST,NEW YORK,NY,10036,USA"
+        },
+        {
+            "store": 602,
+            "latitude": 39.7221991,
+            "longitude": -104.8947681,
+            "address": "3000 E FIRST AVE,DENVER,CO,80206,USA"
+        },
+        {
+            "store": 604,
+            "latitude": 41.772908536611,
+            "longitude": -88.1501617137964,
+            "address": "132 W. JEFFERSON AVE,NAPERVILLE,IL,60540,USA"
+        },
+        {
+            "store": 610,
+            "latitude": 33.9962005,
+            "longitude": -84.5896878,
+            "address": "400 BARRETT PKWY,KENNESAW,GA,30144,USA"
+        },
+        {
+            "store": 616,
+            "latitude": 29.6593821,
+            "longitude": -82.4009006,
+            "address": "6689 NEWBERRY ROAD,GAINESVILLE,FL,32605,USA"
+        },
+        {
+            "store": 620,
+            "latitude": 32.439994,
+            "longitude": -90.14759,
+            "address": "1000 HIGHLAND COLONY PARKWAY,RIDGELAND,MS,39157,USA"
+        },
+        {
+            "store": 624,
+            "latitude": 38.9588,
+            "longitude": -77.358454,
+            "address": "11900 MARKET STREET,RESTON,VA,20190,USA"
+        },
+        {
+            "store": 626,
+            "latitude": 43.6331844,
+            "longitude": -70.3342269,
+            "address": "364 MAINE MALL ROAD,SOUTH PORTLAND,ME,4106,USA"
+        },
+        {
+            "store": 628,
+            "latitude": 41.1319140553806,
+            "longitude": -81.6179532745208,
+            "address": "3265 W MARKET STREET,FAIRLAWN,OH,44333,USA"
+        },
+        {
+            "store": 632,
+            "latitude": 37.728071,
+            "longitude": -122.4768798,
+            "address": "3251 20TH AVE,SAN FRANCISCO,CA,94132,USA"
+        },
+        {
+            "store": 634,
+            "latitude": 39.91515115,
+            "longitude": -75.3520918000057,
+            "address": "6707 SPRINGFIELD MALL,SPRINGFIELD,VA,22150,USA"
+        },
+        {
+            "store": 636,
+            "latitude": 33.03125015,
+            "longitude": -96.832062441357,
+            "address": "6121 W PARK BLVD,PLANO,TX,75093,USA"
+        },
+        {
+            "store": 638,
+            "latitude": 38.7734874,
+            "longitude": -121.2699012,
+            "address": "1151 GALLERIA BLVD,ROSEVILLE,CA,95678,USA"
+        },
+        {
+            "store": 640,
+            "latitude": 42.2189942,
+            "longitude": -71.0234499828513,
+            "address": "250 GRANITE STREET,BRAINTREE,MA,2184,USA"
+        },
+        {
+            "store": 642,
+            "latitude": 31.7784751,
+            "longitude": -106.382713307971,
+            "address": "8401 GATEWAY BLVD WEST,EL PASO,TX,79925,USA"
+        },
+        {
+            "store": 648,
+            "latitude": 42.8821684559011,
+            "longitude": -85.7608728099919,
+            "address": "3700 RIVERTOWN PARKWAY,GRANDVILLE,MI,49418,USA"
+        },
+        {
+            "store": 652,
+            "latitude": 40.142697,
+            "longitude": -88.242566,
+            "address": "2000 NORTH NEIL STREET,CHAMPAIGN,IL,61820,USA"
+        },
+        {
+            "store": 654,
+            "latitude": 21.27882325,
+            "longitude": -157.828052876341,
+            "address": "2250 KALAKAUA AVENUE,HONOLULU,HI,96815,USA"
+        },
+        {
+            "store": 656,
+            "latitude": 47.21661445,
+            "longitude": -122.466658743349,
+            "address": "4502 S STEELE STREET,TACOMA,WA,98409,USA"
+        },
+        {
+            "store": 658,
+            "latitude": 40.7954032,
+            "longitude": -73.9659344,
+            "address": "808 COLUMBUS AVENUE,NEW YORK,NY,10025,USA"
+        },
+        {
+            "store": 662,
+            "latitude": 41.88388535,
+            "longitude": -87.6285154213815,
+            "address": "108 NORTH STATE STREET,CHICAGO,IL,60602,USA"
+        },
+        {
+            "store": 668,
+            "latitude": 41.2428742,
+            "longitude": -73.2006687,
+            "address": "TRUMBULL,CT,6611,USA"
+        },
+        {
+            "store": 670,
+            "latitude": 44.2731545,
+            "longitude": -88.4358336,
+            "address": "4301 WEST WISCONSIN AVENUE,APPLETON,WI,54913,USA"
+        },
+        {
+            "store": 672,
+            "latitude": 34.1442967755102,
+            "longitude": -118.257602979592,
+            "address": "230 AMERICANA WAY,GLENDALE,CA,91210,USA"
+        },
+        {
+            "store": 674,
+            "latitude": 33.7195608,
+            "longitude": -116.3827969,
+            "address": "73505 EL PASEO,PALM DESERT,CA,92260,USA"
+        },
+        {
+            "store": 676,
+            "latitude": 43.2159502,
+            "longitude": -74.1826748,
+            "address": "21-27 NINTH AVENUE,NEW YORK,NY,10014,USA"
+        },
+        {
+            "store": 680,
+            "latitude": 40.9636969,
+            "longitude": -73.8562667,
+            "address": "163 MARKET STREET,YONKERS,NY,10710,USA"
+        },
+        {
+            "store": 682,
+            "latitude": 42.23115545,
+            "longitude": -71.1774322547093,
+            "address": "512 LEGACY PLACE,DEDHAM,MA,2026,USA"
+        },
+        {
+            "store": 684,
+            "latitude": 30.3893737,
+            "longitude": -86.4144331,
+            "address": "4236 LEGENDARY DRIVE,DESTIN,FL,32541,USA"
+        },
+        {
+            "store": 686,
+            "latitude": 35.0345453,
+            "longitude": -85.1588803666158,
+            "address": "2100 HAMILTON PLACE BLVD,CHATTANOOGA,TN,37421,USA"
+        },
+        {
+            "store": 690,
+            "latitude": 39.0260764,
+            "longitude": -84.5796299,
+            "address": "2854 TOWN CENTER BLVD,CRESTVIEW HILLS,KY,41017,USA"
+        },
+        {
+            "store": 692,
+            "latitude": 37.7208290543554,
+            "longitude": -97.244511,
+            "address": "2000 N ROCK ROAD,WICHITA,KS,67206,USA"
+        },
+        {
+            "store": 700,
+            "latitude": 39.45957495,
+            "longitude": -76.2022111267267,
+            "address": "531 CHELSEA ROAD,PERRYMAN,MD,21130,USA"
+        },
+        {
+            "store": 702,
+            "latitude": 38.894857088855,
+            "longitude": -94.5432167825198,
+            "address": "12712 2ND ST,GRANDVIEW,MO,64030,USA"
+        },
+        {
+            "store": 710,
+            "latitude": 27.3813384,
+            "longitude": -82.4549606,
+            "address": "140 UNIVERSITY TOWN CENTER DR,SARASOTA,FL,34243,USA"
+        },
+        {
+            "store": 712,
+            "latitude": 37.5476873,
+            "longitude": -77.4454863,
+            "address": "11800 WEST BROAD STREET,RICHMOND,VA,23233,USA"
+        },
+        {
+            "store": 720,
+            "latitude": 32.9444817,
+            "longitude": -97.1305121249489,
+            "address": "312 GRAND AVE WEST,SOUTHLAKE,TX,76092,USA"
+        },
+        {
+            "store": 722,
+            "latitude": 32.6840195,
+            "longitude": -97.13255190625,
+            "address": "3811 SOUTH COOPER ST,ARLINGTON,TX,76015,USA"
+        },
+        {
+            "store": 724,
+            "latitude": 34.7147717,
+            "longitude": -86.67530285,
+            "address": "335 THE BRIDGE STREET,HUNTSVILLE,AL,35806,USA"
+        },
+        {
+            "store": 726,
+            "latitude": 25.7858721,
+            "longitude": -80.3655592,
+            "address": "1455 NW 107TH AVE,MIAMI,FL,33172,USA"
+        },
+        {
+            "store": 730,
+            "latitude": 34.239235,
+            "longitude": -118.553668,
+            "address": "9301 TAMPA AVENUE,NORTHRIDGE,CA,91324,USA"
+        },
+        {
+            "store": 734,
+            "latitude": 45.51878495,
+            "longitude": -122.67691895,
+            "address": "413 SW MORRISON STREET,PORTLAND,OR,97204,USA"
+        },
+        {
+            "store": 736,
+            "latitude": 33.6057791,
+            "longitude": -111.9258654,
+            "address": "15169 N SCOTTSDALE RD.,SCOTTSDALE,AZ,85254,USA"
+        },
+        {
+            "store": 738,
+            "latitude": 33.9852331,
+            "longitude": -118.3944704,
+            "address": "6000 SEPULVEDA BLVD.,CULVER CITY,CA,90230,USA"
+        },
+        {
+            "store": 740,
+            "latitude": 34.035536986799,
+            "longitude": -118.685464671382,
+            "address": "3896 CROSS CREEK ROAD,MALIBU,CA,90265,USA"
+        },
+        {
+            "store": 742,
+            "latitude": 40.7682595008039,
+            "longitude": -111.891203000001,
+            "address": "50 SOUTH MAIN STREET,SALT LAKE CITY,UT,84101,USA"
+        },
+        {
+            "store": 744,
+            "latitude": 41.6265935802434,
+            "longitude": -73.9168517663501,
+            "address": "2001 SOUTH ROAD,POUGHKEEPSIE,NY,12601,USA"
+        },
+        {
+            "store": 746,
+            "latitude": 38.9648184098177,
+            "longitude": -104.793555686421,
+            "address": "1645 BRIARGATE PARKWAY,COLORADO SPRINGS,CO,80920,USA"
+        },
+        {
+            "store": 748,
+            "latitude": 41.669492,
+            "longitude": -70.297471,
+            "address": "793 IYANNOUGH ROAD,HYANNIS,MA,2601,USA"
+        },
+        {
+            "store": 754,
+            "latitude": 34.0788506,
+            "longitude": -81.1576905021528,
+            "address": "100 COLUMBIANA CIRCLE,COLUMBIA,SC,29212,USA"
+        },
+        {
+            "store": 758,
+            "latitude": 30.436468,
+            "longitude": -84.2535063516074,
+            "address": "1500 APALACHEE PKWY,TALLAHASSEE,FL,32301,USA"
+        },
+        {
+            "store": 762,
+            "latitude": 34.8508137,
+            "longitude": -82.3329513,
+            "address": "700 HAYWOOD RD.,GREENVILLE,SC,29607,USA"
+        },
+        {
+            "store": 764,
+            "latitude": 36.0862261632653,
+            "longitude": -79.8300927346939,
+            "address": "803B FRIENDLY CENTER RD,GREENSBORO,NC,27408,USA"
+        },
+        {
+            "store": 768,
+            "latitude": 40.0539363434343,
+            "longitude": -82.9150604848485,
+            "address": "4174 THE STRAND,COLUMBUS,OH,43219,USA"
+        },
+        {
+            "store": 772,
+            "latitude": 42.1965367,
+            "longitude": -71.7761621,
+            "address": "70 WORCESTER-PROVIDENCE,MILLBURY,MA,1527,USA"
+        },
+        {
+            "store": 778,
+            "latitude": 47.6591105918367,
+            "longitude": -117.423785244898,
+            "address": "808 WEST MAIN AVENUE,SPOKANE,WA,99201,USA"
+        },
+        {
+            "store": 780,
+            "latitude": 30.4761579,
+            "longitude": -87.2074372,
+            "address": "5100 NORTH 9TH AVENUE,PENSACOLA,FL,32504,USA"
+        },
+        {
+            "store": 782,
+            "latitude": 41.910959,
+            "longitude": -87.650943,
+            "address": "938 WEST NORTH AVENUE,CHICAGO,IL,60642,USA"
+        },
+        {
+            "store": 786,
+            "latitude": 41.6914112452563,
+            "longitude": -91.6087933381327,
+            "address": "1451 CORAL RIDGE AVENUE,CORALVILLE,IA,52241,USA"
+        },
+        {
+            "store": 790,
+            "latitude": 33.6913750408163,
+            "longitude": -117.892107428571,
+            "address": "3333 BEAR STREET,COSTA MESA,CA,92626,USA"
+        },
+        {
+            "store": 792,
+            "latitude": 36.137502,
+            "longitude": -80.290824,
+            "address": "3320 SILAS CREEK PARKWAY,WINSTON-SALEM,NC,27103,USA"
+        },
+        {
+            "store": 794,
+            "latitude": 38.4387767,
+            "longitude": -122.716772864805,
+            "address": "1071 SANTA ROSA PLAZA,SANTA ROSA,CA,95401,USA"
+        },
+        {
+            "store": 796,
+            "latitude": 28.485572,
+            "longitude": -81.431579172439,
+            "address": "4200 CONROY ROAD,ORLANDO,FL,32839,USA"
+        },
+        {
+            "store": 802,
+            "latitude": 25.9554417,
+            "longitude": -80.141173,
+            "address": "19525 BISCAYNE BLVD,AVENTURA,FL,33180,USA"
+        },
+        {
+            "store": 804,
+            "latitude": 38.59964824,
+            "longitude": -121.42702276,
+            "address": "1695 ARDEN WAY,SACRAMENTO,CA,95815,USA"
+        },
+        {
+            "store": 808,
+            "latitude": 32.9014375909091,
+            "longitude": -97.3179515858586,
+            "address": "9390 NORTH FREEWAY,FORT WORTH,TX,76177,USA"
+        },
+        {
+            "store": 810,
+            "latitude": 44.854841037875,
+            "longitude": -93.4289646480896,
+            "address": "8201 FLYING CLOUD DR,EDEN PRAIRIE,MN,55344,USA"
+        },
+        {
+            "store": 812,
+            "latitude": 33.6922276,
+            "longitude": -117.8679267,
+            "address": "2890 MAIN STREET,SANTA ANA,CA,92705,USA"
+        },
+        {
+            "store": 818,
+            "latitude": 33.0432083,
+            "longitude": -97.0695428,
+            "address": "5751 LONG PRAIRIE RD,FLOWER MOUND,TX,75028,USA"
+        },
+        {
+            "store": 822,
+            "latitude": 40.1829021,
+            "longitude": -80.2289701,
+            "address": "439 WASHINGTON RD,WASHINGTON,PA,15301,USA"
+        },
+        {
+            "store": 824,
+            "latitude": 33.0992827,
+            "longitude": -96.809524,
+            "address": "2607 PRESTON RD,FRISCO,TX,75034,USA"
+        },
+        {
+            "store": 828,
+            "latitude": 41.75353485,
+            "longitude": -88.0334911253965,
+            "address": "7400 WOODWARD AVE,WOODRIDGE,IL,60517,USA"
+        },
+        {
+            "store": 830,
+            "latitude": 32.767045,
+            "longitude": -117.169361,
+            "address": "6987 FRIARS RD,SAN DIEGO,CA,92108,USA"
+        },
+        {
+            "store": 834,
+            "latitude": 37.6929891,
+            "longitude": -121.9238264,
+            "address": "1500 STONERIDGE MALL RD,PLEASANTON,CA,94588,USA"
+        },
+        {
+            "store": 838,
+            "latitude": 40.1463763,
+            "longitude": -82.9819907192978,
+            "address": "1450 POLARIS PKWY,COLUMBUS,OH,43240,USA"
+        },
+        {
+            "store": 840,
+            "latitude": 25.68976,
+            "longitude": -80.280843,
+            "address": "7201 N KENDALL DR,MIAMI,FL,33156,USA"
+        },
+        {
+            "store": 908,
+            "latitude": 41.4900262,
+            "longitude": -71.3152394,
+            "address": "49 LONG WHARF MALL,NEWPORT,RI,2840,USA"
+        },
+        {
+            "store": 912,
+            "latitude": 32.7829,
+            "longitude": -79.934443,
+            "address": "289 KING STREET,CHARLESTON,SC,29401,USA"
+        },
+        {
+            "store": 914,
+            "latitude": 33.6651178,
+            "longitude": -118.0130856,
+            "address": "21040 PACIFIC COAST HIGHWAY,HUNTINGTON BEACH,CA,92648,USA"
+        },
+        {
+            "store": 916,
+            "latitude": 40.00882125,
+            "longitude": -75.289713,
+            "address": "42A ST. GEORGE'S ROAD,ARDMORE,PA,19003,USA"
+        },
+        {
+            "store": 918,
+            "latitude": 41.05414,
+            "longitude": -73.536211,
+            "address": "100 GREYROCK PLACE,STAMFORD,CT,6901,USA"
+        },
+        {
+            "store": 920,
+            "latitude": 32.7274904,
+            "longitude": -97.3631271,
+            "address": "1612 SOUTH UNIVERSITY DRIVE,FORT WORTH,TX,76107,USA"
+        },
+        {
+            "store": 924,
+            "latitude": 38.9130015551486,
+            "longitude": -94.6437488723897,
+            "address": "5056 W. 119TH STREET,LEAWOOD,KS,66209,USA"
+        },
+        {
+            "store": 926,
+            "latitude": 32.2204567,
+            "longitude": -110.8653395,
+            "address": "5870 EAST BROADWAY BLVD,TUCSON,AZ,85711,USA"
+        },
+        {
+            "store": 928,
+            "latitude": 34.0681037940578,
+            "longitude": -118.399971558044,
+            "address": "270 N. BEVERLY DRIVE,LOS ANGELES,CA,90210,USA"
+        },
+        {
+            "store": 930,
+            "latitude": 37.7835636,
+            "longitude": -122.4070397,
+            "address": "865 MARKET STREET,SAN FRANCISCO,CA,94103,USA"
+        },
+        {
+            "store": 932,
+            "latitude": 35.9573531,
+            "longitude": -86.8139062,
+            "address": "1800 GALLERIA BLVD,FRANKLIN,TN,37067,USA"
+        },
+        {
+            "store": 936,
+            "latitude": 38.8871511,
+            "longitude": -77.0915132,
+            "address": "2800 CLARENDON BLVD,ARLINGTON,VA,22201,USA"
+        },
+        {
+            "store": 938,
+            "latitude": 34.1590505389753,
+            "longitude": -118.821105690301,
+            "address": "140 PROMENADE WAY,WESTLAKE VILLAGE,CA,91362,USA"
+        },
+        {
+            "store": 940,
+            "latitude": 40.7136477,
+            "longitude": -74.0116669,
+            "address": "185 GREENWICH STREET,NEW YORK,NY,10007,USA"
+        },
+        {
+            "store": 942,
+            "latitude": 42.1803771666667,
+            "longitude": -70.9071656666667,
+            "address": "98 DERBY STREET,HINGHAM,MA,2043,USA"
+        },
+        {
+            "store": 944,
+            "latitude": 25.73150265,
+            "longitude": -80.2601554920381,
+            "address": "358 SAN LORENZO AVENUE,CORAL GABLES,FL,33146,USA"
+        },
+        {
+            "store": 946,
+            "latitude": 34.07140105,
+            "longitude": -118.356911570745,
+            "address": "189 THE GROVE DRIVE,LOS ANGELES,CA,90036,USA"
+        },
+        {
+            "store": 956,
+            "latitude": 39.0416604,
+            "longitude": -94.5895439,
+            "address": "424 NICHOLS ROAD,KANSAS CITY,MO,64112,USA"
+        },
+        {
+            "store": 958,
+            "latitude": 37.3208955714286,
+            "longitude": -121.947769071429,
+            "address": "377 SANTANA ROW,SAN JOSE,CA,95128,USA"
+        },
+        {
+            "store": 1000,
+            "latitude": 34.9416947195036,
+            "longitude": -89.8380271065778,
+            "address": "8500 NAIL ROAD,OLIVE BRANCH,MS,38654,USA"
+        },
+        {
+            "store": 1002,
+            "latitude": 34.9416947195036,
+            "longitude": -89.8380271065778,
+            "address": "8500 NAIL ROAD,OLIVE BRANCH,MS,38654,USA"
+        },
+        {
+            "store": 1100,
+            "latitude": 42.3602534,
+            "longitude": -71.0582912,
+            "address": "7 NORTH STREET,BOSTON,MA,2109,USA"
+        },
+        {
+            "store": 1102,
+            "latitude": 38.8971869,
+            "longitude": -77.0261629,
+            "address": "1000 F STREET NW,WASHINGTON,DC,20004,USA"
+        },
+        {
+            "store": 1104,
+            "latitude": 33.8507556,
+            "longitude": -84.3616707,
+            "address": "3167 PEACHTREE ROAD NE,ATLANTA,GA,30305,USA"
+        },
+        {
+            "store": 1106,
+            "latitude": 33.078317,
+            "longitude": -96.8267889,
+            "address": "7600 WINDROSE AVE,PLANO,TX,75024,USA"
+        },
+        {
+            "store": 1108,
+            "latitude": 29.9543844285714,
+            "longitude": -90.0644822857143,
+            "address": "414 NORTH PETERS STREET,NEW ORLEANS,LA,70130,USA"
+        },
+        {
+            "store": 1110,
+            "latitude": 42.3515384545455,
+            "longitude": -71.0749932727273,
+            "address": "88 NEWBURY STREET,BOSTON,MA,2116,USA"
+        },
+        {
+            "store": 1112,
+            "latitude": 25.6457177,
+            "longitude": -80.3395067,
+            "address": "8888 SW 136TH ST,MIAMI,FL,33176,USA"
+        },
+        {
+            "store": 1114,
+            "latitude": 36.0210802,
+            "longitude": -115.086003,
+            "address": "2235 VILLAGE WALK DR.,HENDERSON,NV,89052,USA"
+        },
+        {
+            "store": 1116,
+            "latitude": 39.7435844,
+            "longitude": -104.9905162,
+            "address": "500 16TH STREET,DENVER,CO,80202,USA"
+        },
+        {
+            "store": 1120,
+            "latitude": 39.0509199,
+            "longitude": -77.1174631,
+            "address": "11878 GRAND PARK AVE,NORTH BETHESDA,MD,20852,USA"
+        },
+        {
+            "store": 1122,
+            "latitude": 40.6226446938775,
+            "longitude": -74.0279254285714,
+            "address": "413 86TH STREET,BROOKLYN,NY,11209,USA"
+        },
+        {
+            "store": 1126,
+            "latitude": 40.772891,
+            "longitude": -73.796615,
+            "address": "212-01 26TH AVENUE,BAYSIDE,NY,11360,USA"
+        },
+        {
+            "store": 1128,
+            "latitude": 37.9274844,
+            "longitude": -122.5157951,
+            "address": "347 CORTE MADERA TOWN CENTER,CORTE MADERA,CA,94925,USA"
+        },
+        {
+            "store": 1130,
+            "latitude": 25.7904052,
+            "longitude": -80.1370433,
+            "address": "818 LINCOLN RD,MIAMI BEACH,FL,33139,USA"
+        },
+        {
+            "store": 1132,
+            "latitude": 38.8851108474353,
+            "longitude": -76.9960696831926,
+            "address": "380 7TH ST SE,WASHINGTON,,DC,20003,USA"
+        },
+        {
+            "store": 1134,
+            "latitude": 37.9757869927374,
+            "longitude": -122.059564285689,
+            "address": "2075 DIAMOND BOULEVARD,CONCORD,CA,94520,USA"
+        },
+        {
+            "store": 1136,
+            "latitude": 40.7406264411765,
+            "longitude": -74.0297911470588,
+            "address": "319 WASHINGTON ST,HOBOKEN,NJ,7030,USA"
+        },
+        {
+            "store": 1138,
+            "latitude": 34.1322144,
+            "longitude": -118.3529336,
+            "address": "1000 UNIVERSAL STUDIOS BLVD.,UNIVERSAL CITY,CA,91608,USA"
+        },
+        {
+            "store": 1142,
+            "latitude": 32.894991877551,
+            "longitude": -96.8031394693878,
+            "address": "6025 ROYAL LANE,DALLAS,TX,75230,USA"
+        },
+        {
+            "store": 1146,
+            "latitude": 40.9067582564103,
+            "longitude": -74.0330941282051,
+            "address": "390 Hackensack Ave.,HACKENSACK,NJ,7601,USA"
+        },
+        {
+            "store": 1148,
+            "latitude": 44.9756381,
+            "longitude": -93.2782787,
+            "address": "3001 HENNEPIN AVE,SOUTH MINNEAPOLIS,MN,55408,USA"
+        },
+        {
+            "store": 1152,
+            "latitude": 39.5920347755102,
+            "longitude": -104.961669204082,
+            "address": "6853 S. YORK STREET,CENTENNIAL,CO,80122,USA"
+        },
+        {
+            "store": 1154,
+            "latitude": 40.7155964,
+            "longitude": -73.9599696,
+            "address": "241 BEDFORD AVE,BROOKLYN,NY,11211,USA"
+        },
+        {
+            "store": 1158,
+            "latitude": 33.7232391648966,
+            "longitude": -117.793425525361,
+            "address": "2999 EL CAMINO REAL,TUSTIN,CA,92782,USA"
+        },
+        {
+            "store": 1160,
+            "latitude": 40.6607082040816,
+            "longitude": -74.1760866326531,
+            "address": "651 KAPKOWSKI ROAD,ELIZABETH,NJ,7201,USA"
+        },
+        {
+            "store": 1162,
+            "latitude": 28.5109759,
+            "longitude": -81.1741859,
+            "address": "701 NORTH ALAFAYA TRAIL,ORLANDO,FL,32828,USA"
+        },
+        {
+            "store": 1164,
+            "latitude": 39.1151013,
+            "longitude": -77.2048355,
+            "address": "227 ELLINGTON BLVD,GAITHERSBURG,MD,20878,USA"
+        },
+        {
+            "store": 1168,
+            "latitude": 37.7866316,
+            "longitude": -122.4503013,
+            "address": "3407 CALIFORNIA STREET,SAN FRANCISCO,CA,94118,USA"
+        },
+        {
+            "store": 1184,
+            "latitude": 26.2848057777778,
+            "longitude": -80.1865216666667,
+            "address": "4455 LYONS ROAD,COCONUT CREEK,FL,33073,USA"
+        },
+        {
+            "store": 1186,
+            "latitude": 29.49317835,
+            "longitude": -98.4804913830829,
+            "address": "255 E. BASSE ROAD,SAN ANTONIO,TX,78209,USA"
+        },
+        {
+            "store": 1188,
+            "latitude": 40.02514275,
+            "longitude": -75.6292119166667,
+            "address": "289 MAIN STREET,EXTON,PA,19341,USA"
+        },
+        {
+            "store": 1190,
+            "latitude": 38.6493454,
+            "longitude": -121.1182614,
+            "address": "280 PALLADIO PARKWAY,FOLSOM,CA,95630,USA"
+        },
+        {
+            "store": 1192,
+            "latitude": 32.8385333935075,
+            "longitude": -116.980930217125,
+            "address": "9930 MISSION GORGE RD,SANTEE,CA,92071,USA"
+        },
+        {
+            "store": 1200,
+            "latitude": 37.8711173657529,
+            "longitude": -122.300926619332,
+            "address": "1745 FOURTH STREET,BERKELEY,CA,94710,USA"
+        },
+        {
+            "store": 1202,
+            "latitude": 37.7841232,
+            "longitude": -122.406377467092,
+            "address": "845 MARKET STREET,SAN FRANCISCO,CA,94103,USA"
+        },
+        {
+            "store": 1204,
+            "latitude": 25.8137586938776,
+            "longitude": -80.1935189387755,
+            "address": "4044 NE 1ST AVENUE,MIAMI,FL,33137,USA"
+        },
+        {
+            "store": 1218,
+            "latitude": 33.8260197964045,
+            "longitude": -116.54692017849,
+            "address": "175 NORTH PALM CANYON DRIVE,PALM SPRINGS,CA,92262,USA"
+        },
+        {
+            "store": 1226,
+            "latitude": 40.753906,
+            "longitude": -73.999828,
+            "address": "500 W. 33RD ST,NEW YORK,NY,10001,USA"
+        },
+        {
+            "store": 1228,
+            "latitude": 32.808204,
+            "longitude": -96.796677,
+            "address": "3699 MCKINNEY AVENUE,DALLAS,TX,75204,USA"
+        },
+        {
+            "store": 1236,
+            "latitude": 34.0703402,
+            "longitude": -117.2304517,
+            "address": "27514 LUGONIA AVENUE,REDLANDS,CA,92374,USA"
+        },
+        {
+            "store": 1238,
+            "latitude": 42.3508486,
+            "longitude": -71.0434325,
+            "address": "66 SEAPORT BLVD,BOSTON,MA,2210,USA"
+        },
+        {
+            "store": 1240,
+            "latitude": 37.7608019,
+            "longitude": -121.962807,
+            "address": "6000 BOLLINGER CANYON ROAD,SAN RAMON,CA,94583,USA"
+        }
+    ]
+}
